@@ -11,9 +11,9 @@
   "dependencies": {
     "@stripe/stripe-js": "^1.53.0",
     "axios": "^1.2.2",
-    "backblaze-b2": "1.7.0",
+    "backblaze-b2": "1.7.1",
     "canvas-confetti": "^1.6.0",
-    "eslint": "8.28.0",
+    "eslint": "10.0.0",
     "eslint-config-next": "13.0.5",
     "formidable": "^1.2.2",
     "mongoose": "^6.7.5",
